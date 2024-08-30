@@ -1,0 +1,8 @@
+# Configuration file (example content)
+api_keys:
+  google_speech_to_text: YOUR_GOOGLE_API_KEY
+  google_text_to_speech: YOUR_GOOGLE_API_KEY
+
+settings:
+  language_code: "en-US"
+  sample_rate_hertz: 16000
