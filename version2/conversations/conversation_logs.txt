@@ -1,0 +1,56 @@
+User: I want to go to beach
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: hello
+AI: Tell me more about it.
+User: hello tell me about
+AI: Tell me more about it.
+User: hello I want to beats today
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: I went to the park today
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: hello I went to beach today
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: Hi I went to beach today I went I went to the beach today
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: Sorry, I could not understand the audio.
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: I went to the beach today
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: Sorry, I could not understand the audio.
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: I went to the beach yesterday
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: Hi I went to the beach yesterday
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: hello I went to the beach yesterday
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: I don't remember the last time we talk about it can you help me
+AI: Do you remember the last time you talked about I? I. Can you tell me more about it?
+User: hello I went to the beach yesterday
+AI: I remember when you last mentioned I. We talked about I. How do you feel about that now?
+User: I don't remember telling you
+AI: I remember when you last mentioned I. We talked about I. How do you feel about that now?
+User: Hi I went to the beach yesterday
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
+User: I don't remember talking about bike
+AI: That's okay! Let me help you. You talked about I when you were with [specific details]. Does that help jog your memory?
+User: hello are you went to the beach yesterday
+AI: I remember when you last mentioned went. We talked about Went. How do you feel about that now?
+User: I don't remember talking about it
+AI: That's okay! Let me help you. You talked about I when you were with [specific details]. Does that help jog your memory?
+User: Hi I went out on a bike ride today
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
+User: I don't remember talking about it
+AI: That's okay! Let me help you. You talked about I when you were with [specific details]. Does that help jog your memory?
+User: Hi I went on a bike ride yesterday
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
+User: I don't remember talking about it
+AI: That's okay! Let me help you. You talked about I when you were with [specific details]. Does that help jog your memory?
+User: hello I went on a bike ride yesterday
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
+User: Hi I went on a bike ride yesterday
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
+User: I don't remember talking about it
+AI: That's okay! Let me help you. You talked about I when you were with [specific details]. Does that help jog your memory?
+User: Sorry, I could not understand the audio.
+AI: I remember when you last mentioned I. We talked about bike. How do you feel about that now?
