@@ -1,3 +1,9 @@
+streamlit
 vosk
-pyaudio
-TTS
+pyttsx3
+sounddevice
+numpy
+transformers
+fpdf
+tensorflow
+tf-keras
